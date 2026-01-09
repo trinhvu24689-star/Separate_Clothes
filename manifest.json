@@ -1,0 +1,21 @@
+{
+  "name": "Separate Clothes",
+  "short_name": "SepClothes",
+  "description": "Ứng dụng giúp bạn tạo hình ảnh nhân vật độc đáo bằng cách kết hợp và chỉnh sửa các lớp trang phục, tóc và phụ kiện.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a202c",
+  "theme_color": "#1a202c",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
